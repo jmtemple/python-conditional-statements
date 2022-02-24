@@ -1208,8 +1208,6 @@ Q36: In your own words, what is a boolean or logical expression?
 
 Q37: In your own words, what is a conditional statement?
 
-Q38: Include a link to your Replit workspace.
-
 # Lab Notebook Questions
 
 Q1: Provide your code + comments for steps 37-42.
@@ -1387,5 +1385,3 @@ Q35: In your own words, what is the difference between a `for` loop and a `while
 Q36: In your own words, what is a boolean or logical expression?
 
 Q37: In your own words, what is a conditional statement?
-
-Q38: Include a link to your Replit workspace.
